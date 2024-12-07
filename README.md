@@ -16,7 +16,7 @@ A disciplina **Laboratório de Programação 3** tem como objetivo aprofundar o 
 ### **Atividade 2: Array de Números Primos**
 - **Descrição**: Desenvolver um programa que recebe a quantidade de elementos de um array de números, preenche o array com números inteiros aleatórios e informa quantos números primos existem no array.
 - **Tecnologias**: HTML, CSS e JavaScript.
-- **Caminho**: [`Atividade 2`](ATIV-2/)
+- **Caminho**: [`Veja aqui`](ATIV-2/)
 
 **Enunciado:**
 ```text
