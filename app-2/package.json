@@ -1,0 +1,23 @@
+{
+  "name": "app-2",
+  "version": "1.0.0",
+  "description": "Este repositório contém os códigos e soluções desenvolvidos ao longo da disciplina **Laboratório de Programação 3**. Cada atividade está organizada em pastas separadas e acompanha o enunciado correspondente.",
+  "main": "index.js",
+  "scripts": {
+    "cp": "npx tsc src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fariaslr/Lab3.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fariaslr/Lab3/issues"
+  },
+  "homepage": "https://github.com/Fariaslr/Lab3#readme",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2"
+  }
+}
