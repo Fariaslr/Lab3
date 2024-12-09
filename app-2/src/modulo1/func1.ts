@@ -1,5 +1,5 @@
 function func1 (){
-    return 2;
+    return 34 * 43;
 }
 
 export {func1}

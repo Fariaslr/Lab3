@@ -4,7 +4,8 @@
   "description": "Este repositório contém os códigos e soluções desenvolvidos ao longo da disciplina **Laboratório de Programação 3**. Cada atividade está organizada em pastas separadas e acompanha o enunciado correspondente.",
   "main": "index.js",
   "scripts": {
-    "cp": "npx tsc"
+    "cp": "npx tsc",
+    "dev": "node dist/index"
   },
   "repository": {
     "type": "git",
