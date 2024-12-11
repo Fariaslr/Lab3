@@ -9,16 +9,20 @@ npm init
 ```
 npm install -D typescript @types/node
 ```
+
 ```
 "scripts": {
     "cp": "npx tsc",
-    "dev": "node build/index"
+    "dev": "node build/index",
+    "start": "npm run cp && npm run dev"
 }
 ```
 
 ```
 npx tsc --init
 ```
+
+
 ---
 
 ## **📚 Sobre a Disciplina**
