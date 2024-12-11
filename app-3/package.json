@@ -1,0 +1,17 @@
+{
+  "name": "app-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cp": "npx tsc",
+    "dev": "node build/index",
+    "start": "npm run cp && npm run dev"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2"
+  }
+}

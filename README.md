@@ -2,6 +2,23 @@
 
 Este repositório contém os códigos e soluções desenvolvidos ao longo da disciplina **Laboratório de Programação 3**. Cada atividade está organizada em pastas separadas e acompanha o enunciado correspondente.
 
+```
+npm init
+```
+
+```
+npm install -D typescript @types/node
+```
+```
+"scripts": {
+    "cp": "npx tsc",
+    "dev": "node build/index"
+}
+```
+
+```
+npx tsc --init
+```
 ---
 
 ## **📚 Sobre a Disciplina**
@@ -24,3 +41,4 @@ Crie um programa que:
 1. Receba um número inteiro representando a quantidade de elementos de um array.
 2. Preencha o array com números inteiros aleatórios entre 1 e 100.
 3. Calcule e exiba a quantidade de números primos presentes no array.
+
