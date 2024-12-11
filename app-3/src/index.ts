@@ -44,4 +44,5 @@ let disciplinas:TDisciplina[] = [
 ]
 
 const perm = new Permuter(disciplinas)
+console.log(perm.items)
 console.log(perm.permute(0,2))
