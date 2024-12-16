@@ -1,11 +1,15 @@
-const App = () =>{
+const App = () => {
+
   return (
-    <>
-    <div>
-      
-    </div>
-    </>
+
+    <main>
+
+      <div><h1>Hello React!!!</h1></div>
+
+    </main>
+
   )
+
 }
 
 export default App
