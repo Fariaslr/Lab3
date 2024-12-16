@@ -43,3 +43,10 @@ Crie um programa que:
 2. Preencha o array com números inteiros aleatórios entre 1 e 100.
 3. Calcule e exiba a quantidade de números primos presentes no array.
 ```
+```
+yarn add styled-components
+```
+
+```
+yarn add -D @types/styled-components
+```
